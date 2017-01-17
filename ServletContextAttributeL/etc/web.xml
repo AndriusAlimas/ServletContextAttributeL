@@ -10,6 +10,10 @@
     <welcome-file>index.htm</welcome-file>
   </welcome-file-list>
   
+  <listener>
+ 	<listener-class>com.example.listener.MyServletContextAttributeListener</listener-class> 
+  </listener>
+  
   <servlet>
   	<servlet-name>Servlet</servlet-name>
   	<servlet-class>com.example.servlet.MyServlet</servlet-class>
