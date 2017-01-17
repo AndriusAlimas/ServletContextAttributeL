@@ -17,6 +17,6 @@
   
   <servlet-mapping>
   	<servlet-name>Servlet</servlet-name>
-  	<url-pattern>/servlet.so</url-pattern>
+  	<url-pattern>/servlet.do</url-pattern>
   </servlet-mapping>
 </web-app>
